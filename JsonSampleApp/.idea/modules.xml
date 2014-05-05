@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Json Sample/Json Sample.iml" filepath="$PROJECT_DIR$/Json Sample/Json Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonSampleApp.iml" filepath="$PROJECT_DIR$/JsonSampleApp.iml" />
+    </modules>
+  </component>
+</project>
+
